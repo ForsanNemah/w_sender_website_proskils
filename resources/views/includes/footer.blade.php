@@ -17,9 +17,9 @@
         
 
 <p>جميع الحقوق محفوظة </p>
-<a href="https://wmc-ksa.com/home/">
+<a href="https://www.facebook.com/Proskillscenterye/">
 
-    <p>       شركة النافذة للتسويق الالكتروني  </p>
+    <p>        مركز برو سكيلز لجميع خدمات البرمجة والصيانة   </p>
 </a>
 
 
@@ -31,7 +31,7 @@
             </li>
 
             <li>
-                <a href="https://www.facebook.com/wmcksa" class="fa fa-facebook">
+                <a href="https://www.facebook.com/Proskillscenterye/" class="fa fa-facebook">
 
                 </a>
             </li>
