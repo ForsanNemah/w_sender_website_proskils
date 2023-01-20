@@ -91,7 +91,7 @@
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
               <div class="accordion-body"> <strong> </strong> 
  
-                حسب سياسة واتساب يمكنك ارسال الكم الذي تريد بشرط ان تكون الرسالة ان لا تحصل رسالتك على بلاغات من العملاء انها رسالة مزعجة
+                حسب سياسة واتساب يمكنك ارسال الكم الذي تريد بشرط   ان لا تحصل رسالتك على بلاغات من العملاء  على انها رسالة مزعجة
     
             
              </div>

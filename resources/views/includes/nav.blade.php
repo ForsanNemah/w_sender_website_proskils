@@ -13,7 +13,7 @@
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#faq">الاسئلة الشائعة </a></li>
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#cta"> التحميل</a></li>
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#htu"> طريقة الاستخدام</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#contact_form">  إشتراك</a></li>
+    
             </ul>
     
             <a href="https://api.whatsapp.com/send/?phone={{config('app.phn')}}&text&type=phone_number&app_absent=0">

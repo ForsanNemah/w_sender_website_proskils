@@ -86,7 +86,7 @@ return [
    
     'action_url' => 'https://script.google.com/macros/s/AKfycbx04QAVpmvPjI_PqXJO6kPCemsJ4TUjuJzKssrt0IrrBqWYHfNGuE7FmY_glXsxrP5K/exec',
     'phn' => '967776348599',
-    'download_link' => 'https://drive.google.com/file/d/1YKsgGp6h-dblMmPf_SZ_O8jmvh2IDVPe/view',
+    'download_link' => 'https://mega.nz/folder/uzpRAaSJ#DvZ_qYapQULlgliu5u-WNA',
 
     /*
     |--------------------------------------------------------------------------
